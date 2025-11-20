@@ -1,2 +1,2 @@
 # Vezbe1
-###Danas radimo git.
+### Danas radimo git.
